@@ -19,6 +19,6 @@ public class common {
 	}
 
 	public void common() {
-		//adding common method
+		//adding common method1
 	}
 }
