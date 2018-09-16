@@ -28,4 +28,7 @@ public class common {
 	public void sumtiaddingatbottom(){
 	}
 	
+	public void sumtiaddingatbottom2(){
+	}
+	
 }
