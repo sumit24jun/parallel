@@ -31,4 +31,8 @@ public class common {
 	public void sumtiaddingatbottom2(){
 	}
 	
+	public void nehaaddedatbottom() {
+		System.out.println();
+	}
+	
 }
