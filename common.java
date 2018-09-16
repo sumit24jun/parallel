@@ -3,6 +3,9 @@ import java.util.*;
 
 public class common {
 	//line added at top
+	public void sumitaddedattop() {
+		
+	}
 	
 	public void nehaaddedattop() {
 		
