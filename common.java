@@ -1,5 +1,7 @@
 package test;
 
+import java;
+
 public class common {
 	//line added at top
 	public void sumitaddedattop() {
