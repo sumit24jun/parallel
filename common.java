@@ -28,4 +28,8 @@ public class common {
 	public void sumtiaddingatbottom(){
 	}
 	
+	public void nehaaddedatbottom() {
+		System.out.println();
+	}
+	
 }
