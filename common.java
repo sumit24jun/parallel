@@ -18,4 +18,7 @@ public class common {
 		System.out.println("this is line added by neha2");
 	}
 
+	public void common() {
+		//adding common method1
+	}
 }
