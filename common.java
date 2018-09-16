@@ -13,5 +13,9 @@ public class common {
 	public void sumit2() {
 		System.out.println("this is line added by sumit");
 	}
+	
+	public void neha2() {
+		System.out.println("this is line added by neha2");
+	}
 
 }
